@@ -1,0 +1,11 @@
+{
+  "name": "Jezy AI",
+  "description": "Smart real-time voice and vision AI assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
